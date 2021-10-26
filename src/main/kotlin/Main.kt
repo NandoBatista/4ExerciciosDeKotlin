@@ -117,6 +117,7 @@ Criarem uma estrutura de when em que consigamos passar um número inteiro entre 
         10 -> println("Outubro")
         11 -> println("Novembro")
         12 -> println("Dezembro")
+        else -> println("Valor inválido")
 
     }
 }
